@@ -70,7 +70,11 @@ const services = [
     icon: web,
   },
   {
+<<<<<<< HEAD
     title: "Mobile App Developer",
+=======
+    title: "Frontend Developer",
+>>>>>>> 3b54e41f2679d1173c0954a055261fec37a07fd7
     icon: mobile,
   },
   {
@@ -78,17 +82,33 @@ const services = [
     icon: backend,
   },
   {
+<<<<<<< HEAD
     title: "UI/UX Designer",
+=======
+    title: "Ui UX Designer",
+>>>>>>> 3b54e41f2679d1173c0954a055261fec37a07fd7
     icon: creator,
   },
 ];
 
 const technologies = [
   {
+<<<<<<< HEAD
+=======
+    name: "HTML 5",
+    icon: html,
+  },
+  {
+    name: "CSS 3",
+    icon: css,
+  },
+  {
+>>>>>>> 3b54e41f2679d1173c0954a055261fec37a07fd7
     name: "JavaScript",
     icon: javascript,
   },
   {
+<<<<<<< HEAD
     name: "TypeScript",
     icon: typescript,
   },
@@ -101,10 +121,13 @@ const technologies = [
     icon: swift,
   },
   {
+=======
+>>>>>>> 3b54e41f2679d1173c0954a055261fec37a07fd7
     name: "React JS",
     icon: reactjs,
   },
   {
+<<<<<<< HEAD
     name: "Flutter",
     icon: flutter,
   },
@@ -139,6 +162,24 @@ const technologies = [
   {
     name: "Docker",
     icon: docker,
+=======
+    name: "gsap",
+    icon: gsap,
+  },
+  {
+    name: "framer",
+    icon: framer,
+  },
+
+ 
+  {
+    name: "Three JS",
+    icon: threejs,
+  },
+  {
+    name: "figma",
+    icon: figma,
+>>>>>>> 3b54e41f2679d1173c0954a055261fec37a07fd7
   },
   {
     name: "Redux Toolkit",
@@ -149,6 +190,7 @@ const technologies = [
     icon: tailwind,
   },
   {
+<<<<<<< HEAD
     name: "Material UI",
     icon: mui,
   },
@@ -180,6 +222,38 @@ const technologies = [
     name: "CSS 3",
     icon: css,
   },
+=======
+    name: "Material Ui",
+    icon: mui,
+  },
+  {
+    name: "Node JS",
+    icon: nodejs,
+  },
+  {
+    name: "Express Js",
+    icon: express,
+  },
+  {
+    name: "AWS",
+    icon: aws,
+  },
+  {
+    name: "MongoDB",
+    icon: mongodb,
+  },
+  {
+    name: "MySql",
+    icon: mysql,
+  },
+
+  {
+    name: "git",
+    icon: git,
+  },
+ 
+
+>>>>>>> 3b54e41f2679d1173c0954a055261fec37a07fd7
 ];
 
 const experiences = [
@@ -190,11 +264,17 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2023 - present",
     points: [
+<<<<<<< HEAD
       "Developing and maintaining web and mobile applications using MERN stack, React Native, and Flutter.",
       "Building scalable backend APIs with Node.js, Express, and implementing microservices architecture.",
       "Working with mobile app development using Kotlin for Android and Swift for iOS native development.",
       "Implementing cloud solutions with AWS, Firebase, and Docker for containerized deployments.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+=======
+      "Developing and maintaining web applications using MERN technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+>>>>>>> 3b54e41f2679d1173c0954a055261fec37a07fd7
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
@@ -229,6 +309,7 @@ const testimonials = [
 
 const projects = [
   {
+<<<<<<< HEAD
     name: "Growu Media - Company Website",
     description:
       "A modern, responsive company website for Growu Media featuring digital marketing services, web development solutions, and client portfolio. Built with cutting-edge technologies for optimal performance and user experience.",
@@ -255,6 +336,8 @@ const projects = [
     live_link: "https://www.growumedia.com/"
   },
   {
+=======
+>>>>>>> 3b54e41f2679d1173c0954a055261fec37a07fd7
     name: "AI-Powered Portfolio",
     description:
       "A dynamic portfolio website built with React and Three.js, featuring AI-powered animations and interactive 3D elements. Experience a unique blend of creativity and technology.",
@@ -307,6 +390,7 @@ const projects = [
     live_link: "https://your-ecommerce-url.com"
   },
   {
+<<<<<<< HEAD
     name: "Cross-Platform Mobile App",
     description:
       "A feature-rich mobile application built with Flutter and React Native, featuring real-time chat, push notifications, offline functionality, and seamless user experience across iOS and Android platforms.",
@@ -333,6 +417,8 @@ const projects = [
     live_link: "https://play.google.com/store/apps/your-app"
   },
   {
+=======
+>>>>>>> 3b54e41f2679d1173c0954a055261fec37a07fd7
     name: "Task Management System",
     description:
       "An advanced task management system with real-time collaboration, progress tracking, and AI-powered task prioritization. Perfect for teams looking to boost productivity.",
