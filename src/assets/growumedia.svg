@@ -1,0 +1,12 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="#1F2937"/>
+<circle cx="200" cy="120" r="40" fill="#6366F1"/>
+<text x="200" y="180" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Growu Media</text>
+<text x="200" y="200" font-family="Arial, sans-serif" font-size="14" fill="#94A3AF" text-anchor="middle">Digital Marketing &amp; Web Development</text>
+<rect x="50" y="220" width="300" height="2" fill="#6366F1" opacity="0.5"/>
+<circle cx="100" cy="240" r="8" fill="#10B981"/>
+<circle cx="150" cy="240" r="8" fill="#F59E0B"/>
+<circle cx="200" cy="240" r="8" fill="#EF4444"/>
+<circle cx="250" cy="240" r="8" fill="#8B5CF6"/>
+<circle cx="300" cy="240" r="8" fill="#06B6D4"/>
+</svg>
